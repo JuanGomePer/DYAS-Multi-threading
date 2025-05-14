@@ -1,5 +1,27 @@
 ### Taller sobre Multi-threading en Java
 
+
+## Instrucciones
+
+### 1. **Navega al directorio del proyecto:**
+
+   Abre tu terminal o línea de comandos y navega a la carpeta donde se encuentra el proyecto con el siguiente comando:
+
+   cd multi-threading
+
+### 2. **Construye el proyecto con Maven:**
+
+    mvn clean install
+
+### 3. **Ejecutar codigos**
+
+    mvn clean install -PthreadExample exec:java
+    mvn clean install -PcallableExample exec:java
+    mvn clean install -PexecutorServiceExample exec:java
+    mvn clean install -PfileDownloadSimulation exec:java
+    mvn clean install -PrunnableExample exec:java
+    mvn clean install -PsynchronizedExample exec:java
+
 #### Objetivo
 El objetivo de este taller es aprender los conceptos fundamentales de multi-threading en Java, implementando ejemplos prácticos para entender cómo manejar múltiples hilos en una aplicación Java.
 

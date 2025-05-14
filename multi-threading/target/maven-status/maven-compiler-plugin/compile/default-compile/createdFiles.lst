@@ -1,0 +1,6 @@
+com\example\SynchronizedExample.class
+com\example\ExecutorServiceExample.class
+com\example\FileDownloadSimulation.class
+com\example\ThreadExample.class
+com\example\RunnableExample.class
+com\example\CallableExample.class
