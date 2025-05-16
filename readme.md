@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-Juan Andres Gomez Perez
-Samuel Rodriguez Ulloa
-Andrea Sosa
+Juan Andres Gomez Perez,
+Samuel Rodriguez Ulloa,
+Andrea Sosa,
 David Medina
 
 
