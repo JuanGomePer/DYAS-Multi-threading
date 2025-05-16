@@ -1,5 +1,12 @@
 ### Taller sobre Multi-threading en Java
 
+## Integrantes
+
+Juan Andres Gomez Perez
+Samuel Rodriguez Ulloa
+Andrea Sosa
+David Medina
+
 
 ## Instrucciones
 
